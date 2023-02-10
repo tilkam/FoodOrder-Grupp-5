@@ -4,6 +4,7 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
+.class
 /.idea/
 .idea/workspace.xml
 .idea/modules.xml
